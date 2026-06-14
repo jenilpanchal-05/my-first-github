@@ -1,1 +1,2 @@
-# Nothing sort of much as i had to just perform what code with harry sir did 
+name=input("Enter your name ! ")
+print(f"GOOD MORNING Mr {name}")
