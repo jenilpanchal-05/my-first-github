@@ -7,3 +7,5 @@ My enthusiasm
 -STUDY
 -STUDY
 -STUDY
+
+Never ever lose hope because a single candle can illuminate the whole room filled with darkness and negativity 
